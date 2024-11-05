@@ -1,0 +1,2 @@
+STEP1: conda create -n mchatbot -y
+STEP2: conda activate mchatbot
